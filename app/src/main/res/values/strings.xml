@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GanheiNaMegaSena</string>
+    <string name="txt_title">Boa Sorte!</string>
+    <string name="edit_hint">Digite um número de 6 a 15</string>
+</resources>
